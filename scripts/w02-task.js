@@ -5,7 +5,7 @@
 /* Step 2 - Variables */
 const fullName = "Edson Villalba";
 const currentYear = 2024;
-const profilePicture = "../images/Edson.jpg";
+const profilePicture = "images/Edson.jpg";
 
 /* Step 3 - Element Variables */
 const nameElement = document.getElementById("name");
